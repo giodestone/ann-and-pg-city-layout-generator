@@ -7,7 +7,7 @@ The implemented method does not generate roads. Proposed solutions include: movi
 
 Result images are contained in the Images folder.
 
-The road generation is based on [https://github.com/nv-tlabs/NTG](Neural Turtle Graphics for Modelling City Layouts). Plot generation is inspired by [https://probabletrain.itch.io/city-generator](Probable Train's City Generator).
+The road generation is based on [Neural Turtle Graphics for Modelling City Layouts](https://github.com/nv-tlabs/NTG). Plot generation is inspired by [Probable Train's City Generator](https://probabletrain.itch.io/city-generator).
 
 If you have any questions, message me, open an issue, or check this project's website for other ways to get in touch 🙂
 
