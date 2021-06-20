@@ -1,5 +1,5 @@
 # City Layout Generation using Artificial Neural Networks and Procedural Generation
-**For more details regarding implementation**, please go [to this project's webpage](https://giodestone.github.io/projects/dissertation.html), or read [the dissertation](https://raw.githubusercontent.com/giodestone/ann-and-pg-city-layout-generator/main/Dissertation.pdf) which was ~~painfully~~ beautifully typeset using LaTeX.
+**For more details regarding implementation**, please go [to this project's webpage](https://giodestone.github.io/projects/dissertation/), or read [the dissertation](https://raw.githubusercontent.com/giodestone/ann-and-pg-city-layout-generator/main/Dissertation.pdf) which was ~~painfully~~ beautifully typeset using LaTeX.
 
 The project was completed as the dissertation for my BSc (Hons) Computer Game Applications Development degree from Abertay University. The aim was to implement and evaluate how effective the generation of city layouts would be using a combination of artificial neural networks and procedural generation.
 
